@@ -14,7 +14,7 @@ This tutorial replaces the Light Sensor with a <a href=""> Ultrasonic Distance  
 # Code
 * Save the "Many Ways to Blink 3" code as "Many Ways to Blink 4". NOTE: The full code for this tutorial is at the end of this tutorial
 * You can see all the chnages to the code <a href="https://github.com/workshopweekend/many-ways-to-blink-4/raw/master/many-ways-to-blink-4.pdf">here</a>.
-* Unlike the Servo library this one does not come with the Arduino program so you will have to add it your self. You can download it from <a href="https://github.com/workshopweekend/many-ways-to-blink-4/raw/master/NewPing.zip"/a>. 
+* Unlike the Servo library this one does not come with the Arduino program so you will have to add it your self. You can download it from <a href="https://github.com/workshopweekend/many-ways-to-blink-4/raw/master/NewPing.zip"</a>. 
 * Now Select Sketch --> Import Library --> Add to Library... and navigate to where you downloaded it to you.
 * Restart Arduino and you should see NewPing in the File --> Examples list
 * Open the NewPinExample from the Examples list
